@@ -1,3 +1,3 @@
-# Miniprin Plotter
+# Miniprint Plotter
 
 Description
